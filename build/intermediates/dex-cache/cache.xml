@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hepeix/code/UCWebVideo/app/src/main/libs/aspectjrt.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="30217090975652be712dcc9f0499c1cab1344927">
+        <dex dex="/home/hepeix/code/UCWebVideo/app/build/intermediates/pre-dexed/debug/aspectjrt-f37b4cec8a2ffa36fbabec7e920c1f7507a89045.jar" />
+    </item>
+    <item
+        jar="/home/hepeix/code/UCWebVideo/app/src/main/libs/isoparser-1.0-RC-6-20120510.091755-1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c7c53dab0751fa6a37caa395e24ee6bca6477848">
+        <dex dex="/home/hepeix/code/UCWebVideo/app/build/intermediates/pre-dexed/debug/isoparser-1.0-RC-6-20120510.091755-1-817cb7fee20d57e969edf84ec844501efbfb7a34.jar" />
+    </item>
+    <item
+        jar="/home/hepeix/code/UCWebVideo/app/src/main/libs/httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="/home/hepeix/code/UCWebVideo/app/build/intermediates/pre-dexed/debug/httpcore-4.4.3-5a44fa516fede6bd140ddf8a6c5d4dd0b405652e.jar" />
+    </item>
+
+</items>
